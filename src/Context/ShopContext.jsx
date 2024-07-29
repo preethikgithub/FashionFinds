@@ -31,8 +31,8 @@ const getTotalCartAmount =()=>{
                 let itemInfo=all_product.find((product)=>product.id===Number(item));
                 totalAmount+=itemInfo.new_price*cartItems[item];
             }
-            return totalAmount;
         }
+        return totalAmount;
     }
     
     const getTotalCartItems=()=>{
@@ -47,7 +47,7 @@ const getTotalCartAmount =()=>{
         return totalItem;
     }
 
-    const contextValue ={all_product,cartItems,addToCart,removeFromCart,getTotalCartAmount,getTotalCartItems};
+    const contextValue ={getTotalCartAmount,all_product,cartItems,addToCart,removeFromCart,getTotalCartItems};
 
     return (
         <ShopContext.Provider value={contextValue}>
