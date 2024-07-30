@@ -14,7 +14,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.5); /* Change color and opacity as needed */
+    background: rgba(0, 0,0, 0.65); /* Change color and opacity as needed */
     z-index: 1;
   }
   
@@ -68,7 +68,7 @@
     background: #FF7235;
     color: white;
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 500;
     transition: transform 0.3s, background 0.3s;
   }
   
