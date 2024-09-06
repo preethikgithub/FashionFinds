@@ -1,6 +1,6 @@
 .offers {
     width: 65%;
-    height:60vh;
+    height:50vh;
     display: flex;
     margin:auto;
     padding: 0px 140px;
@@ -48,6 +48,7 @@
 }
 @media(max-width:1280px){
     .offers{
+        height:35vh;
         padding: 0px 80px;
         margin-bottom: 120px;
     }
@@ -73,7 +74,7 @@
     .offers{
         padding: 0px 60px;
         margin-bottom: 80px;
-        height:40vh;
+        height:30vh;
     }
     .offers-left h1{
         font-size: 30px;
@@ -96,7 +97,7 @@
 @media(max-width:800px){
     .offers{
         margin-bottom: 60px;
-        height: 50vh;
+        height:25vh;
     }
     .offers-left h1{
         font-size: 22px;
@@ -115,7 +116,7 @@
 }
 @media(max-width:500px){
     .offers{
-        height: 25vh;
+        height:15vh;
         margin-bottom: 50px;
     }
     .offers-left h1{

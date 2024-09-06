@@ -56,7 +56,7 @@
 }
 @media(max-width:800px){
     .relatedproducts{
-        height: 40vh;
+        height: 35vh;
         gap:6px;
     }
     .relatedproducts h1{
