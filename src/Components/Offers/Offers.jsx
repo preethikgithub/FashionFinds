@@ -4,8 +4,8 @@ const Offers = () => {
   return (
     <div className="offers">
       <div className='offers-left'>
-        <h2>Exclusive</h2>
-        <h3>Offers For You</h3>
+        <h1>Exclusive</h1>
+        <h1>Offers For You</h1>
         <p>ONLY ON BEST SELLERS PRODUCTS</p>
         <button>Check Now</button>
       </div>
