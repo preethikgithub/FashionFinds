@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 90vh;
+    height: 80vh;
 }
 .relatedproducts h1{
     color:#171717;
@@ -24,7 +24,7 @@
 }
 @media(max-width:1280px){
     .relatedproducts{
-        height: 70vh;
+        height: 60vh;
     }
     .relatedproducts h1{
         font-size: 40px;
@@ -40,7 +40,7 @@
 }
 @media(max-width:1024px){
     .relatedproducts{
-        height: 60vh;
+        height: 50vh;
     }
     .relatedproducts h1{
         font-size: 30px;
@@ -56,7 +56,7 @@
 }
 @media(max-width:800px){
     .relatedproducts{
-        height: 50vh;
+        height: 40vh;
         gap:6px;
     }
     .relatedproducts h1{
@@ -71,7 +71,7 @@
 }
 @media(max-width:500px){
     .relatedproducts{
-        height: 90vh;
+        height: 70vh;
     }
     .relatedproducts-item{
         display: grid;
