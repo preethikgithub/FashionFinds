@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FashionFinds/static/css/main.64d5474b.css",
+    "main.css": "/FashionFinds/static/css/main.2da01fdc.css",
     "main.js": "/FashionFinds/static/js/main.fd4509e2.js",
     "static/js/453.d855a71b.chunk.js": "/FashionFinds/static/js/453.d855a71b.chunk.js",
     "static/media/bg.png": "/FashionFinds/static/media/bg.d8c8b7f9a8414c4083cf.png",
@@ -48,12 +48,12 @@
     "static/media/hand_icon.png": "/FashionFinds/static/media/hand_icon.9c7487cecb600f30901b.png",
     "static/media/dropdown_icon1.png": "/FashionFinds/static/media/dropdown_icon1.069cb2399c2aa031378e.png",
     "index.html": "/FashionFinds/index.html",
-    "main.64d5474b.css.map": "/FashionFinds/static/css/main.64d5474b.css.map",
+    "main.2da01fdc.css.map": "/FashionFinds/static/css/main.2da01fdc.css.map",
     "main.fd4509e2.js.map": "/FashionFinds/static/js/main.fd4509e2.js.map",
     "453.d855a71b.chunk.js.map": "/FashionFinds/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64d5474b.css",
+    "static/css/main.2da01fdc.css",
     "static/js/main.fd4509e2.js"
   ]
 }
