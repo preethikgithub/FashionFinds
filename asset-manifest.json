@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/FashionFinds/static/css/main.e40299e2.css",
-    "main.js": "/FashionFinds/static/js/main.f27ae07a.js",
+    "main.css": "/FashionFinds/static/css/main.f89ce2f7.css",
+    "main.js": "/FashionFinds/static/js/main.fd4509e2.js",
     "static/js/453.d855a71b.chunk.js": "/FashionFinds/static/js/453.d855a71b.chunk.js",
-    "static/media/bg.png": "/FashionFinds/static/media/bg.ca3f4df61c7c2fec7510.png",
+    "static/media/bg.png": "/FashionFinds/static/media/bg.d8c8b7f9a8414c4083cf.png",
     "static/media/banner_kids.png": "/FashionFinds/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/FashionFinds/static/media/banner_women.5a27fc4e4533e57e4676.png",
     "static/media/banner_mens.png": "/FashionFinds/static/media/banner_mens.eed7197157196f319b17.png",
@@ -46,13 +46,14 @@
     "static/media/image.png": "/FashionFinds/static/media/image.c817f1f13da633dc1ed4.png",
     "static/media/product_35.png": "/FashionFinds/static/media/product_35.073b8b5de77cfc979821.png",
     "static/media/hand_icon.png": "/FashionFinds/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "static/media/dropdown_icon1.png": "/FashionFinds/static/media/dropdown_icon1.069cb2399c2aa031378e.png",
     "index.html": "/FashionFinds/index.html",
-    "main.e40299e2.css.map": "/FashionFinds/static/css/main.e40299e2.css.map",
-    "main.f27ae07a.js.map": "/FashionFinds/static/js/main.f27ae07a.js.map",
+    "main.f89ce2f7.css.map": "/FashionFinds/static/css/main.f89ce2f7.css.map",
+    "main.fd4509e2.js.map": "/FashionFinds/static/js/main.fd4509e2.js.map",
     "453.d855a71b.chunk.js.map": "/FashionFinds/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e40299e2.css",
-    "static/js/main.f27ae07a.js"
+    "static/css/main.f89ce2f7.css",
+    "static/js/main.fd4509e2.js"
   ]
 }
