@@ -26,7 +26,7 @@
 }
 @media(max-width:1280px){
     .popular{
-        height: 65vh;
+        height: 45vh;
     }
     .popular h1{
         font-size: 40px;
@@ -58,7 +58,7 @@
 }
 @media(max-width:800px){
     .popular{
-        height:35vh;
+        height: 50vh;
         gap:6px;
     }
     .popular h1{
